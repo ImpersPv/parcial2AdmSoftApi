@@ -7,8 +7,11 @@
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/RoleRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/message/response/JwtResponse.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/security/services/UserPrinciple.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/UserController.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/MunicipioRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/MunicipioController.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/EmailController.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/exception/ResourceNotFoundException.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/ImcController.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Empresa.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/CategoriaController.java
@@ -19,9 +22,11 @@
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/UserRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Estado.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/security/services/UserDetailsServiceImpl.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/People.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/security/jwt/JwtAuthEntryPoint.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/EmpresaController.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Municipio.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/PeopleRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Role.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/ImcRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/User.java
@@ -29,4 +34,5 @@
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/message/request/SignUpForm.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/repository/EstadoRepository.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Categoria.java
+/root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/controller/PeopleController.java
 /root/Documents/Escuela/Decimo Semestre/AdminProyIngSoftware/Clase9/springboot-jwt/src/main/java/com/grokonez/jwtauthentication/model/Imc.java
